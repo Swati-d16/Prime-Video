@@ -3,12 +3,8 @@ In this project, let's build a **Prime Video** by applying the concepts we have 
 ### Refer to the video below:
 link:- https://primevideos01.ccbp.tech/
 <br/>
-<div style="text-align: center;">
-  <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/prime-video-output.mp4" type="video/mp4">
-    
-  </video>
-</div>
+![image](https://github.com/user-attachments/assets/5f3710b9-b9ef-4843-9c22-4a09c06ee309)
+
 <br/>
 
 ### Design Files
