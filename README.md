@@ -2,7 +2,6 @@ In this project, let's build a **Prime Video** by applying the concepts we have 
 
 ### Refer to the video below:
 link:- https://primevideos01.ccbp.tech/
-
 <br/>
 ![image](https://github.com/user-attachments/assets/5f3710b9-b9ef-4843-9c22-4a09c06ee309)
 
